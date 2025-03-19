@@ -29,7 +29,8 @@ Each dataset includes **complex relationships** that allow you to practice SQL q
 ✅ **Advanced SQL** – CASE, CTEs, Pivoting  
 
 
-## 📝 Some Sample Queries & Output Snapshots 
+## 📝 SQL Query Examples & Expected Outputs
+
 ![Image](https://github.com/user-attachments/assets/abc8dc82-bc03-4296-9142-7556a43944a4)
 
 ![Image](https://github.com/user-attachments/assets/cc2d8b1c-43e0-41b1-8b7c-7f4df41b3b08)
@@ -44,8 +45,13 @@ Each dataset includes **complex relationships** that allow you to practice SQL q
 
 ## 🛠 How to Use  
 1. Load the datasets into MySQL.
-Watch this vedio for importing   
+
+[Watch this video for importing](https://www.youtube.com/watch?v=UQUCqyMmnL4)
+
 2. Run the queries provided in the solution files.  
 
 ## 📢 Contributions  
 Feel free to contribute by adding more datasets and SQL challenges!
+
+
+
