@@ -33,13 +33,15 @@ Each dataset includes **complex relationships** that allow you to practice SQL q
 
 ![Image](https://github.com/user-attachments/assets/abc8dc82-bc03-4296-9142-7556a43944a4)
 
-![Image](https://github.com/user-attachments/assets/cc2d8b1c-43e0-41b1-8b7c-7f4df41b3b08)
+![Image](https://github.com/user-attachments/assets/41a97325-a0f7-48a6-a3dd-1b6350ce9da2)
 
 ![Image](https://github.com/user-attachments/assets/67694a07-ce33-46de-bbcd-71a7a9dfd85f)
 
 ![Image](https://github.com/user-attachments/assets/6d4843d9-9a1e-4d93-ac3d-6c2bf55a3742)
 
-![Image](https://github.com/user-attachments/assets/41a97325-a0f7-48a6-a3dd-1b6350ce9da2)
+![Image](https://github.com/user-attachments/assets/cc2d8b1c-43e0-41b1-8b7c-7f4df41b3b08)
+
+
 
 
 
